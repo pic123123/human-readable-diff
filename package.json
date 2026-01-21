@@ -6,6 +6,7 @@
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
+  
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -20,7 +21,17 @@
     "lint": "biome check .",
     "lint:fix": "biome check --write ."
   },
-  "keywords": [],
+"keywords": [
+    "diff",
+    "human-readable",
+    "admin panel",
+    "audit logs",
+    "history tracker",
+    "backoffice",
+    "change-log",
+    "object-diff",
+    "json-diff"
+  ],
   "author": "",
   "license": "ISC",
   "repository": {
