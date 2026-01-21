@@ -1,6 +1,6 @@
 {
   "name": "human-readable-diff",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate human-readable audit logs and history tracks for admin panels.",
   "type": "module",
   "main": "./dist/index.cjs",
