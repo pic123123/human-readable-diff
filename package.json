@@ -1,12 +1,11 @@
 {
   "name": "human-readable-diff",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
-  
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -21,7 +20,7 @@
     "lint": "biome check .",
     "lint:fix": "biome check --write ."
   },
-"keywords": [
+  "keywords": [
     "diff",
     "human-readable",
     "admin panel",
